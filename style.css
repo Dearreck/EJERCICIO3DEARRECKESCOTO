@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font: 1.15em arial;
+}
+
+p{
+    margin:15px;
+}
+
+.marca{
+    color: #fefe02;
+}
+
+a.marca:hover{
+    color:forestgreen;
+}
+
+.as{
+    color: #800280;
+}
+
+a.as:hover{
+    color:red;
+}
